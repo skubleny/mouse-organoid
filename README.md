@@ -1,6 +1,6 @@
-# mouse-organoid
+# Open source data and code
 
-This repository accompanies the paperr titled "	Murine gastric tissue establishes and maintains intestinal organoid viability after 48 hours of cold ischemia time in a mock-shipment simulation"
+This repository accompanies the paper titled "Murine gastric tissue establishes and maintains intestinal organoid viability after 48 hours of cold ischemia time in a mock-shipment simulation"
 
 Instructions for use:
 
